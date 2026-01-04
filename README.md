@@ -46,7 +46,7 @@
 ### Education (학력/교육)
 | 기간 | 과정/기관 | 내용 |
 |---|---|---|
-| 2025 | **LG DX School** | 서비스 기획–데이터–개발 연계 프로젝트 수행(TravelGo) |
+| 2025 | [**LG DX School**](https://lgdxschool-sujin-dailyreflection.notion.site/Daily-Reflection-21fa5b59ab4680628c2ffd7a9e4d60da) | 데이터분석, 서비스 기획–데이터–개발 연계 프로젝트 수행 및 학습 기록 아카이빙 |
 | 2021 | **VSLAB Acadmy** | cinema 4d 비주얼라이징, 애니메이션 과정 수료 |
 | 2016-2021 | **SBS Academy** | 포토샵, 일러스트, 그래픽스 심화작업, 브랜딩디자인, 에프터이펙트, 디지털 드로잉 과정 수강|
 | 2016-2020 | **디지털콘텐츠디자인 학부(학사)졸업** | 영상 촬영, 편집, 디자인, 시나리오 작업 및 마케팅 과정 |
